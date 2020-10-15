@@ -1,6 +1,6 @@
 name: flutter_okta_sdk
-description: A new flutter plugin project.
-version: 0.0.1
+description: SDK to handle Okta Authentication
+version: 1.0.0-dev.1
 homepage: https://github.com/sonikro/flutter-okta-sdk
 
 environment:
